@@ -1,0 +1,1 @@
+Template for first project created on GitHub
